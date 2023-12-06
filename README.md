@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Tabish Khan</h1>
 <h3 align="center">A budding UI/UX designers and frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-tabish&label=Profile%20views&color=0e75b6&style=flat" alt="m-tabish" /> </p>
-
 - 🔭 I’m currently working on [NyayeSathi](https://bit-counsel.github.io/nyaye_sathi/)
 
 - 💬 Ask me about **React , Java , Figma**
