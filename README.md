@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-tabish&label=Profile%20views&color=0e75b6&style=flat" alt="m-tabish" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-tabish" alt="m-tabish" /></a> </p>
-
-- 🔭 I’m currently working on **NyayeSathi**
+- 🔭 I’m currently working on [NyayeSathi](https://bit-counsel.github.io/nyaye_sathi/)
 
 - 💬 Ask me about **React , Java , Figma**
 
