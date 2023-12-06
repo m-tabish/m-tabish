@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Tabish Khan</h1>
-<h3 align="center">A budding UI/UX designers and frontend developer from India</h3>
+<h3 align="center">A budding UI/UX designer and frontend developer from India</h3>
 
 - 🔭 I’m currently working on [NyayeSathi](https://bit-counsel.github.io/nyaye_sathi/)
 
