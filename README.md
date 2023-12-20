@@ -8,20 +8,7 @@
 - 📫 How to reach me **mohdtabishkhan001@gmail.com**
 
 - ⚡ Fun fact **I just to love design websites and watching Day in the life videos of tech youtubers.**
-
-<h3 align="left">Connect with me:</h3>
-<a href = "<h1 align="center">Hi 👋, I'm Mohd Tabish Khan</h1>
-<h3 align="center">A budding UI/UX designer and frontend developer from India</h3>
-
-- 🔭 I’m currently working on [NyayeSathi](https://bit-counsel.github.io/nyaye_sathi/)
-
-- 💬 Ask me about **React , Java , Figma**
-
-- 📫 How to reach me **mohdtabishkhan001@gmail.com**
-
-- ⚡ Fun fact **I just to love design websites and watching Day in the life videos of tech youtubers.**
-
-<h3 align="left">Connect with me:</h3>
+ 
 <a href= "[![Peerlist](https://github-readme-badge.peerlist.io/api/tabish)](https://peerlist.io/tabish)" target="_blank" rel="noreferrer"></a>
 <p align="left">
 <a href="https://discord.gg/_tabish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_tabish" height="30" width="40" /></a>
