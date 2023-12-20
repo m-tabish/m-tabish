@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://discord.gg/_tabish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_tabish" height="30" width="40" /></a>
 </p>
-[![Peerlist](https://github-readme-badge.peerlist.io/api/tabish)](https://peerlist.io/tabish)
+<a href = "[![Peerlist](https://github-readme-badge.peerlist.io/api/tabish)](https://peerlist.io/tabish)" target = _blank></a>
  
  
 </body>
