@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    
 </head>
 <body>
-    <h1 align="center">Hi 👋, I'm Mohd Tabish Khan</h1>
+   <h1 align="center">Hi 👋, I'm Mohd Tabish Khan</h1>
 <h3 align="center">A budding UI/UX designer and frontend developer from India</h3>
 
 - 🔭 I’m currently working on [NyayeSathi](https://bit-counsel.github.io/nyaye_sathi/)
@@ -31,6 +31,7 @@
 <a href="https://discord.gg/_tabish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_tabish" height="30" width="40" /></a>
 </p>
 
+ 
  
 </body>
 </html>
