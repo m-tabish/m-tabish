@@ -13,9 +13,7 @@
 
 - 💬 Ask me about **React , Java , Figma**
 
-- 📫 How to reach me **mohdtabishkhan001@gmail.com**
-
-- ⚡ Fun fact **I just to love design websites and watching Day in the life videos of tech youtubers.**
+- 📫 How to reach me **mohdtabishkhan001@gmail.com** 
  
 <a href= "[![Peerlist](https://github-readme-badge.peerlist.io/api/tabish)](https://peerlist.io/tabish)" target="_blank" rel="noreferrer"></a>
 
