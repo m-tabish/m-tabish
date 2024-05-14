@@ -7,7 +7,7 @@
 </head>
 <body>
    <h1 align="center">Hi 👋, I'm Mohd Tabish Khan</h1>
-<h3 align="center">A budding UI/UX designer and frontend developer from India</h3>
+<h3 align="center">A budding developer from India</h3>
 
 - 🔭 I’m currently working on [Leetcode Stats](https://m-tabish.github.io/leetcode_stats/)
 
