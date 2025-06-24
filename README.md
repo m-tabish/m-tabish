@@ -7,7 +7,7 @@
 </head>
 <body>
    <h1 align="center">Hi 👋, I'm Mohd Tabish Khan</h1>
-<h3 align="center">A young developer from India</h3>
+<h3 align="center">UG CSE DS+AI '27</h3>
 
 - 🔭 I’m currently working on [Bluprnt](https://www.bluprnt.tech/)
 
