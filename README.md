@@ -9,7 +9,7 @@
    <h1 align="center">Hi 👋, I'm Mohd Tabish Khan</h1>
 <h3 align="center">A young developer from India</h3>
 
-- 🔭 I’m currently working on [Build Flow](https://m-tabish.github.io/leetcode_stats/)
+- 🔭 I’m currently working on [Bluprnt](https://www.bluprnt.tech/)
 
 - 💬 Ask me about **React , Java , Figma**
 
